@@ -5,7 +5,7 @@
 - Explored qualitative and quantitative techniques for assessing the quality of the trained model.
 ## Assignment 2: Neural Networks
 - Built a complete Neural Network system that that can be used to train on data of any number of features.
-- Implemented back propagation without the use of external libraries.
+- Implemented back propagation using only NumPy
 - Explored the abilities of a neural network on non-linearly-separable data.
 - Explored how varying the number of hidden units impact accuracy and overfitting.
 ## Assignment 3: Deep Neural Networks, Multiclass Classification, and Keras
@@ -18,7 +18,7 @@
 ## Assignment 4: Convolutional Neural Networks
 - Extended the deep learning framework to support Convolutional Neural Networks
 - Implemented forward propagation and back propagation in a modular fashion for Convolution, Maxpooling, and Flatten layer types.
-- Train convolutional neural networks with my custom framework built without the use of external libraries
+- Train convolutional neural networks with my custom framework
 - Use Keras to build and train convolutional neural networks
 - Use Keras to work with mainstream CNN architectures such as ResNet, and VGG
 ## Assignment 5: Optimization and Regularization
